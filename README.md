@@ -1,4 +1,4 @@
-# jeju🍊
+# 🍊 Jeju Dialect Translator
 제주어 번역기
 ## Data
 [AI Hub - 한국어 방언 발화(제주도)](https://aihub.or.kr/aidata/33982)

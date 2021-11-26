@@ -12,7 +12,7 @@ JIT dataset(from 제주어 구술 자료집)<br>
 train(160,356), dev(5000), test(5000)
 
 
-## model & train
+### model & train
 Transformer
   - 6 encoder and decoder blocks, each with 512-2048 hidden units across 8 attention heads<br>
 Use FAIRSEQ(PyTorch-based library for deep sequence models)<br>

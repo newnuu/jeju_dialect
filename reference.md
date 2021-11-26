@@ -2,7 +2,7 @@
 [Jejueo Datasets for Machine Translation and Speech Synthesis](https://arxiv.org/pdf/1911.12071.pdf)
 
 ### 제주어
-현재 구사할 수 있는 사람은 5000-10000명(대부분 70대 이상)
+현재 구사할 수 있는 사람은 5000-10000명(대부분 70대 이상)<br>
 아래아 ( ᄒᆞᆫ저 옵서예 ) 
 
 

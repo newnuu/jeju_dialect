@@ -24,3 +24,6 @@ aihub 데이터 EDA<br>
 - delete_w()/delete_w2()
   - ((단어)) -> 괄호 삭제
   - ((특수문자)) 삭제
+
+- name()
+  - &name&, $name$ 
